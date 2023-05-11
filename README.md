@@ -1,4 +1,6 @@
-This is a small project I made for fun during a night using node.js and Puppeteer.
+# Whatasapp Animals Prank
+
+This is a small project I made for fun during a night using node.js and Puppeteer to prank a friend.
 
 First I scraped the data from a website to get an array of animals names in portuguese.
 
